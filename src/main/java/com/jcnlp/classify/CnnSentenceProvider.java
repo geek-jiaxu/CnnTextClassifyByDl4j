@@ -1,4 +1,4 @@
-package com.ctrip.classify;
+package com.jcnlp.classify;
 
 import com.google.common.collect.Lists;
 import com.google.common.collect.Sets;

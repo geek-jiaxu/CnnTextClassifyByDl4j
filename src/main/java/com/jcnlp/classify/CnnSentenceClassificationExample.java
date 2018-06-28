@@ -1,4 +1,4 @@
-package com.ctrip.classify;
+package com.jcnlp.classify;
 
 import com.google.common.collect.Maps;
 import com.google.common.io.Files;
