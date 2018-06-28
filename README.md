@@ -8,7 +8,8 @@ train.txt示例，第一列表示产品分类，后边则是分词后的产品�
 eg.衣服 海澜之家 旗下 品牌 海澜 优选 生活馆 多色 条纹 短袖 t 恤 男 浅灰 条纹 07170 / 95
 
 ## 运行
-1.运行Word2VecUtil.main生成word2vec.bin模型文件，data目录已存在，训练数据采用train.txt中的产品名称
+1.运行Word2VecUtil.main生成word2vec.bin模型文件，data目录已存在，训练数据采用train.txt中的产品名称  
+
 2.运行CnnSentenceClassificationExample.main训练模型并输出测试结果
 
 ## 测试结果
